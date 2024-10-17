@@ -278,7 +278,7 @@ body {
   background: linear-gradient(#31220b, #382e1b);
   color: #f3e7d4;
   min-height:fit-content;
-  padding: 3rem;
+
   object-fit:cover
 }
 #main-title{
